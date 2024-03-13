@@ -1,0 +1,15 @@
+good,positive
+happy,positive
+perfect,positive
+bad,negative
+horrible,negative
+broken,negative
+chipped,negative
+scratch,negative
+amazing,positive
+dented,negative
+false,negative
+awful,negative
+love,positive
+missing,negative
+
